@@ -1,0 +1,106 @@
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:5:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m5 |[0m  [33mvar[0m [36mseq2[0m=Seq([31m9[0m,[31m8[0m,[31m7[0m,[31m6[0m,[31m5[0m,[31m4[0m,[31m3[0m)[0m
+[0m[[0m[33mwarn[0m] [0m[0m  |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m  |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:6:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m6 |[0m  [33mdef[0m [36mfunc[0m([36mnum[0m:[35mInt[0m):[35mBoolean[0m=num>[31m3[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m  |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m  |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:7:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m7 |[0m  [33mdef[0m [36mfunc2[0m([36mx[0m:[35mInt[0m):[35mSeq[Double][0m=Seq(x,x+x)[0m
+[0m[[0m[33mwarn[0m] [0m[0m  |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m  |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:8:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m8 |[0m  println(Strings.testComputation([31m1[0m,[31m3[0m))[0m
+[0m[[0m[33mwarn[0m] [0m[0m  |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m  |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:9:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m9 |[0m  println(Strings.testInterpolations([31m"august"[0m, [31m12[0m))[0m
+[0m[[0m[33mwarn[0m] [0m[0m  |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m  |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:10:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m10 |[0m  println(Strings.testUppercase([31m"\nhi mom, im studying at mtuci"[0m))[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:11:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m11 |[0m  println(Sequence.testZip(Seq([31m1[0m,[31m2[0m),Seq([31m2[0m,[31m3[0m)))[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:12:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m12 |[0m  println(Maps.testUnderaged(Map([31m"2"[0m->Maps.User([31m"anton"[0m,[31m45[0m),[31m"3"[0m->Maps.User([31m"emily"[0m,[31m25[0m))))[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:13:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m13 |[0m  println(Maps.testNumberFrodos(Map([31m"2"[0m->Maps.User([31m"asdasdAdam"[0m,[31m45[0m),[31m"3"[0m->Maps.User([31m"Adam"[0m,[31m25[0m),[31m"4"[0m->Maps.User([31m"emily"[0m,[31m25[0m))))[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:14:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m14 |[0m  println(Maps.testGroupUsers(Seq(Maps.User([31m"adam"[0m,[31m20[0m),Maps.User([31m"adam"[0m,[31m40[0m),Maps.User([31m"nana"[0m,[31m20[0m)))) [0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:15:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m15 |[0m  println(Adts.testDouble(Some([31m6[0m)))[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:16:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m16 |[0m  println(Adts.testIsEven([31m5[0m))[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:17:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m17 |[0m  println(Adts.testSafeDivide([31m2[0m,[31m4[0m))[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:18:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m18 |[0m  println(Adts.testSafeDivide([31m2[0m,[31m0[0m))[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:19:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m19 |[0m  println(Adts.testGoodOldJava(([36mx[0m => (x.toInt*x.toInt)),[31m"8"[0m))[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:20:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m20 |[0m  println(Adts.testGoodOldJava(([36mx[0m => (x.toInt*x.toInt)),[31m"abc"[0m))[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:21:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m21 |[0m  print([31m"  "[0m)[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:22:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m22 |[0m  println(Sequence.testLastElement(seq))[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:23:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m23 |[0m  print([31m"  "[0m)[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:24:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m24 |[0m  println(Sequence.testZip(seq3,seq4))[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:25:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m25 |[0m  print([31m"  "[0m)[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:26:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m26 |[0m  println(Sequence.testForAll(seq)(func))[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:27:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m27 |[0m  print([31m"  "[0m)[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:28:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m28 |[0m  println(Sequence.testPalindrom(seq))[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:29:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m29 |[0m  print([31m"  "[0m)[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Main.scala:30:2 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m30 |[0m  println(Sequence.testFlatMap(seq)(func2))[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m26 warnings found[0m
+[0m[[0m[33mwarn[0m] [0m[0m26 warnings found[0m

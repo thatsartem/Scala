@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/lab4_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Maps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Maps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sequence.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Sequence.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Maps.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Maps.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Strings.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Strings.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Maps$User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Maps$User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Adts$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Adts$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Strings.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Strings.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sequence.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Sequence.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Maps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Maps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Maps$User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Maps$User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Adts.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Adts.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Strings$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Strings$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sequence$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Sequence$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Adts.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab4/target/scala-3.0.1/classes/Adts.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

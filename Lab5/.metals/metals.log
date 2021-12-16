@@ -1,0 +1,324 @@
+[0m2021.11.18 17:06:52 INFO  Started: Metals version 0.10.9 in workspace '/Users/artem/Projects/Functional Programming/Lab3' for client Visual Studio Code 1.61.2.[0m
+[0m2021.11.18 17:06:56 INFO  time: initialize in 4.56s[0m
+[0m2021.11.18 17:06:57 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.18 17:06:57 WARN  no build tool detected in workspace '/Users/artem/Projects/Functional Programming/Lab3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.11.18 17:06:58 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab3/src/main/scala/RecursiveData.scala[0m
+[0m2021.11.18 17:07:04 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.11.18 17:07:08 INFO  time: code lens generation in 10s[0m
+[0m2021.11.18 17:07:16 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab2/build.sbt[0m
+[0m2021.11.18 17:07:33 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab3/build.sbt[0m
+нояб. 18, 2021 5:07:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+[0m2021.11.19 18:47:54 INFO  shutting down Metals[0m
+[0m2021.11.20 12:18:18 INFO  Started: Metals version 0.10.9 in workspace '/Users/artem/Projects/Functional Programming/Lab3' for client Visual Studio Code 1.62.2.[0m
+[0m2021.11.20 12:18:23 INFO  time: initialize in 4.59s[0m
+[0m2021.11.20 12:18:23 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.20 12:18:24 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab3/src/main/scala/RecursiveData.scala[0m
+[0m2021.11.20 12:18:24 INFO  skipping build import with status 'Requested'[0m
+[0m2021.11.20 12:18:31 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+нояб. 20, 2021 12:18:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+нояб. 20, 2021 12:18:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+нояб. 20, 2021 12:18:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+нояб. 20, 2021 12:18:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+нояб. 20, 2021 12:18:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+нояб. 20, 2021 12:18:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+[0m2021.11.20 12:18:35 INFO  time: code lens generation in 11s[0m
+[0m2021.11.20 12:18:35 INFO  time: code lens generation in 2.31s[0m
+[0m2021.11.20 12:18:35 INFO  time: code lens generation in 2.52s[0m
+[0m2021.11.20 12:18:35 INFO  time: code lens generation in 2.16s[0m
+[0m2021.11.20 12:18:35 INFO  time: code lens generation in 2.05s[0m
+[0m2021.11.20 12:18:35 INFO  time: code lens generation in 2.08s[0m
+[0m2021.11.20 12:18:35 INFO  time: code lens generation in 2.23s[0m
+[0m2021.11.20 12:18:35 INFO  time: code lens generation in 2.12s[0m
+[0m2021.11.20 12:18:35 INFO  time: code lens generation in 2.09s[0m
+[0m2021.11.20 12:18:35 INFO  time: code lens generation in 2.19s[0m
+[0m2021.11.20 12:18:35 INFO  time: code lens generation in 2.15s[0m
+[0m2021.11.20 12:18:54 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab3/src/main/scala/RecursiveData.scala[0m
+[0m2021.11.20 12:19:10 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab3/src/main/scala/RecursiveData.scala[0m
+[0m2021.11.20 12:19:57 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab3/src/main/scala/Compositions.scala[0m
+Exception in thread "pool-3-thread-1" dotty.tools.dotc.core.TypeError: bad parameter reference A at typer
+the parameter is type A in class Some but the prefix <noprefix>
+does not define any corresponding arguments.
+idx = 0, args = List()
+	at dotty.tools.dotc.core.Types$NamedType.argDenot(Types.scala:2304)
+	at dotty.tools.dotc.core.Types$NamedType.fromDesignator$1(Types.scala:2218)
+	at dotty.tools.dotc.core.Types$NamedType.computeDenot(Types.scala:2236)
+	at dotty.tools.dotc.core.Types$NamedType.denot(Types.scala:2191)
+	at dotty.tools.dotc.core.Types$NamedType.info(Types.scala:2179)
+	at dotty.tools.dotc.core.Types$Type.dealias1(Types.scala:1361)
+	at dotty.tools.dotc.core.Types$Type.dealias(Types.scala:1384)
+	at dotty.tools.dotc.core.Definitions.isTupleNType(Definitions.scala:1476)
+	at dotty.tools.dotc.printing.RefinedPrinter.toTextFunction$1$$anonfun$1(RefinedPrinter.scala:150)
+	at dotty.tools.dotc.printing.Printer.atPrec(Printer.scala:43)
+	at dotty.tools.dotc.printing.Printer.changePrec(Printer.scala:72)
+	at dotty.tools.dotc.printing.RefinedPrinter.toTextFunction$2(RefinedPrinter.scala:160)
+	at dotty.tools.dotc.printing.RefinedPrinter.appliedText$2(RefinedPrinter.scala:222)
+	at dotty.tools.dotc.printing.RefinedPrinter.toText$$anonfun$1(RefinedPrinter.scala:234)
+	at dotty.tools.dotc.printing.MessageLimiter.controlled(MessageLimiter.scala:23)
+	at dotty.tools.dotc.printing.PlainPrinter.controlled(PlainPrinter.scala:35)
+	at dotty.tools.dotc.printing.RefinedPrinter.toText(RefinedPrinter.scala:300)
+	at scala.meta.internal.pc.SymbolPrinter.typeString(SymbolPrinter.scala:25)
+	at scala.meta.internal.pc.SymbolPrinter.shortTypeString$1(SymbolPrinter.scala:43)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:71)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-2" dotty.tools.dotc.core.TypeError: bad parameter reference A at typer
+the parameter is type A in class Some but the prefix <noprefix>
+does not define any corresponding arguments.
+idx = 0, args = List()
+	at dotty.tools.dotc.core.Types$NamedType.argDenot(Types.scala:2304)
+	at dotty.tools.dotc.core.Types$NamedType.fromDesignator$1(Types.scala:2218)
+	at dotty.tools.dotc.core.Types$NamedType.computeDenot(Types.scala:2236)
+	at dotty.tools.dotc.core.Types$NamedType.denot(Types.scala:2191)
+	at dotty.tools.dotc.core.Types$NamedType.info(Types.scala:2179)
+	at dotty.tools.dotc.core.Types$Type.dealias1(Types.scala:1361)
+	at dotty.tools.dotc.core.Types$Type.dealias(Types.scala:1384)
+	at dotty.tools.dotc.core.Definitions.isTupleNType(Definitions.scala:1476)
+	at dotty.tools.dotc.printing.RefinedPrinter.toTextFunction$1$$anonfun$1(RefinedPrinter.scala:150)
+	at dotty.tools.dotc.printing.Printer.atPrec(Printer.scala:43)
+	at dotty.tools.dotc.printing.Printer.changePrec(Printer.scala:72)
+	at dotty.tools.dotc.printing.RefinedPrinter.toTextFunction$2(RefinedPrinter.scala:160)
+	at dotty.tools.dotc.printing.RefinedPrinter.appliedText$2(RefinedPrinter.scala:222)
+	at dotty.tools.dotc.printing.RefinedPrinter.toText$$anonfun$1(RefinedPrinter.scala:234)
+	at dotty.tools.dotc.printing.MessageLimiter.controlled(MessageLimiter.scala:23)
+	at dotty.tools.dotc.printing.PlainPrinter.controlled(PlainPrinter.scala:35)
+	at dotty.tools.dotc.printing.RefinedPrinter.toText(RefinedPrinter.scala:300)
+	at scala.meta.internal.pc.SymbolPrinter.typeString(SymbolPrinter.scala:25)
+	at scala.meta.internal.pc.SymbolPrinter.paramLabel(SymbolPrinter.scala:253)
+	at scala.meta.internal.pc.SymbolPrinter.$anonfun$7(SymbolPrinter.scala:144)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.SymbolPrinter.label$2$$anonfun$1(SymbolPrinter.scala:144)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.SymbolPrinter.label$1(SymbolPrinter.scala:148)
+	at scala.meta.internal.pc.SymbolPrinter.defaultMethodSignature(SymbolPrinter.scala:151)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:64)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-3" dotty.tools.dotc.core.TypeError: bad parameter reference A at typer
+the parameter is type A in class Some but the prefix <noprefix>
+does not define any corresponding arguments.
+idx = 0, args = List()
+	at dotty.tools.dotc.core.Types$NamedType.argDenot(Types.scala:2304)
+	at dotty.tools.dotc.core.Types$NamedType.fromDesignator$1(Types.scala:2218)
+	at dotty.tools.dotc.core.Types$NamedType.computeDenot(Types.scala:2236)
+	at dotty.tools.dotc.core.Types$NamedType.denot(Types.scala:2191)
+	at dotty.tools.dotc.core.Types$NamedType.info(Types.scala:2179)
+	at dotty.tools.dotc.core.Types$Type.dealias1(Types.scala:1361)
+	at dotty.tools.dotc.core.Types$Type.dealias(Types.scala:1384)
+	at dotty.tools.dotc.core.Definitions.isTupleNType(Definitions.scala:1476)
+	at dotty.tools.dotc.printing.RefinedPrinter.toTextFunction$1$$anonfun$1(RefinedPrinter.scala:150)
+	at dotty.tools.dotc.printing.Printer.atPrec(Printer.scala:43)
+	at dotty.tools.dotc.printing.Printer.changePrec(Printer.scala:72)
+	at dotty.tools.dotc.printing.RefinedPrinter.toTextFunction$2(RefinedPrinter.scala:160)
+	at dotty.tools.dotc.printing.RefinedPrinter.appliedText$2(RefinedPrinter.scala:222)
+	at dotty.tools.dotc.printing.RefinedPrinter.toText$$anonfun$1(RefinedPrinter.scala:234)
+	at dotty.tools.dotc.printing.MessageLimiter.controlled(MessageLimiter.scala:23)
+	at dotty.tools.dotc.printing.PlainPrinter.controlled(PlainPrinter.scala:35)
+	at dotty.tools.dotc.printing.RefinedPrinter.toText(RefinedPrinter.scala:300)
+	at scala.meta.internal.pc.SymbolPrinter.typeString(SymbolPrinter.scala:25)
+	at scala.meta.internal.pc.SymbolPrinter.shortTypeString$1(SymbolPrinter.scala:43)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:71)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-4" dotty.tools.dotc.core.TypeError: bad parameter reference A at typer
+the parameter is type A in class Some but the prefix <noprefix>
+does not define any corresponding arguments.
+idx = 0, args = List()
+	at dotty.tools.dotc.core.Types$NamedType.argDenot(Types.scala:2304)
+	at dotty.tools.dotc.core.Types$NamedType.fromDesignator$1(Types.scala:2218)
+	at dotty.tools.dotc.core.Types$NamedType.computeDenot(Types.scala:2236)
+	at dotty.tools.dotc.core.Types$NamedType.denot(Types.scala:2191)
+	at dotty.tools.dotc.core.Types$NamedType.info(Types.scala:2179)
+	at dotty.tools.dotc.core.Types$Type.dealias1(Types.scala:1361)
+	at dotty.tools.dotc.core.Types$Type.dealias(Types.scala:1384)
+	at dotty.tools.dotc.core.Definitions.isTupleNType(Definitions.scala:1476)
+	at dotty.tools.dotc.printing.RefinedPrinter.toTextFunction$1$$anonfun$1(RefinedPrinter.scala:150)
+	at dotty.tools.dotc.printing.Printer.atPrec(Printer.scala:43)
+	at dotty.tools.dotc.printing.Printer.changePrec(Printer.scala:72)
+	at dotty.tools.dotc.printing.RefinedPrinter.toTextFunction$2(RefinedPrinter.scala:160)
+	at dotty.tools.dotc.printing.RefinedPrinter.appliedText$2(RefinedPrinter.scala:222)
+	at dotty.tools.dotc.printing.RefinedPrinter.toText$$anonfun$1(RefinedPrinter.scala:234)
+	at dotty.tools.dotc.printing.MessageLimiter.controlled(MessageLimiter.scala:23)
+	at dotty.tools.dotc.printing.PlainPrinter.controlled(PlainPrinter.scala:35)
+	at dotty.tools.dotc.printing.RefinedPrinter.toText(RefinedPrinter.scala:300)
+	at scala.meta.internal.pc.SymbolPrinter.typeString(SymbolPrinter.scala:25)
+	at scala.meta.internal.pc.SymbolPrinter.shortTypeString$1(SymbolPrinter.scala:43)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:71)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-5" dotty.tools.dotc.core.TypeError: bad parameter reference A at typer
+the parameter is type A in class Some but the prefix <noprefix>
+does not define any corresponding arguments.
+idx = 0, args = List()
+	at dotty.tools.dotc.core.Types$NamedType.argDenot(Types.scala:2304)
+	at dotty.tools.dotc.core.Types$NamedType.fromDesignator$1(Types.scala:2218)
+	at dotty.tools.dotc.core.Types$NamedType.computeDenot(Types.scala:2236)
+	at dotty.tools.dotc.core.Types$NamedType.denot(Types.scala:2191)
+	at dotty.tools.dotc.core.Types$NamedType.info(Types.scala:2179)
+	at dotty.tools.dotc.core.Types$Type.dealias1(Types.scala:1361)
+	at dotty.tools.dotc.core.Types$Type.dealias(Types.scala:1384)
+	at dotty.tools.dotc.core.Definitions.isTupleNType(Definitions.scala:1476)
+	at dotty.tools.dotc.printing.RefinedPrinter.toTextFunction$1$$anonfun$1(RefinedPrinter.scala:150)
+	at dotty.tools.dotc.printing.Printer.atPrec(Printer.scala:43)
+	at dotty.tools.dotc.printing.Printer.changePrec(Printer.scala:72)
+	at dotty.tools.dotc.printing.RefinedPrinter.toTextFunction$2(RefinedPrinter.scala:160)
+	at dotty.tools.dotc.printing.RefinedPrinter.appliedText$2(RefinedPrinter.scala:222)
+	at dotty.tools.dotc.printing.RefinedPrinter.toText$$anonfun$1(RefinedPrinter.scala:234)
+	at dotty.tools.dotc.printing.MessageLimiter.controlled(MessageLimiter.scala:23)
+	at dotty.tools.dotc.printing.PlainPrinter.controlled(PlainPrinter.scala:35)
+	at dotty.tools.dotc.printing.RefinedPrinter.toText(RefinedPrinter.scala:300)
+	at scala.meta.internal.pc.SymbolPrinter.typeString(SymbolPrinter.scala:25)
+	at scala.meta.internal.pc.SymbolPrinter.paramLabel(SymbolPrinter.scala:253)
+	at scala.meta.internal.pc.SymbolPrinter.$anonfun$7(SymbolPrinter.scala:144)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.SymbolPrinter.label$2$$anonfun$1(SymbolPrinter.scala:144)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.SymbolPrinter.label$1(SymbolPrinter.scala:148)
+	at scala.meta.internal.pc.SymbolPrinter.defaultMethodSignature(SymbolPrinter.scala:151)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:64)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-6" dotty.tools.dotc.core.TypeError: bad parameter reference A at typer
+the parameter is type A in class Some but the prefix <noprefix>
+does not define any corresponding arguments.
+idx = 0, args = List()
+	at dotty.tools.dotc.core.Types$NamedType.argDenot(Types.scala:2304)
+	at dotty.tools.dotc.core.Types$NamedType.fromDesignator$1(Types.scala:2218)
+	at dotty.tools.dotc.core.Types$NamedType.computeDenot(Types.scala:2236)
+	at dotty.tools.dotc.core.Types$NamedType.denot(Types.scala:2191)
+	at dotty.tools.dotc.core.Types$NamedType.info(Types.scala:2179)
+	at dotty.tools.dotc.core.Types$Type.dealias1(Types.scala:1361)
+	at dotty.tools.dotc.core.Types$Type.dealias(Types.scala:1384)
+	at dotty.tools.dotc.core.Definitions.isTupleNType(Definitions.scala:1476)
+	at dotty.tools.dotc.printing.RefinedPrinter.toTextFunction$1$$anonfun$1(RefinedPrinter.scala:150)
+	at dotty.tools.dotc.printing.Printer.atPrec(Printer.scala:43)
+	at dotty.tools.dotc.printing.Printer.changePrec(Printer.scala:72)
+	at dotty.tools.dotc.printing.RefinedPrinter.toTextFunction$2(RefinedPrinter.scala:160)
+	at dotty.tools.dotc.printing.RefinedPrinter.appliedText$2(RefinedPrinter.scala:222)
+	at dotty.tools.dotc.printing.RefinedPrinter.toText$$anonfun$1(RefinedPrinter.scala:234)
+	at dotty.tools.dotc.printing.MessageLimiter.controlled(MessageLimiter.scala:23)
+	at dotty.tools.dotc.printing.PlainPrinter.controlled(PlainPrinter.scala:35)
+	at dotty.tools.dotc.printing.RefinedPrinter.toText(RefinedPrinter.scala:300)
+	at scala.meta.internal.pc.SymbolPrinter.typeString(SymbolPrinter.scala:25)
+	at scala.meta.internal.pc.SymbolPrinter.shortTypeString$1(SymbolPrinter.scala:43)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:71)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-7" dotty.tools.dotc.core.TypeError: bad parameter reference A at typer
+the parameter is type A in class Some but the prefix <noprefix>
+does not define any corresponding arguments.
+idx = 0, args = List()
+	at dotty.tools.dotc.core.Types$NamedType.argDenot(Types.scala:2304)
+	at dotty.tools.dotc.core.Types$NamedType.fromDesignator$1(Types.scala:2218)
+	at dotty.tools.dotc.core.Types$NamedType.computeDenot(Types.scala:2236)
+	at dotty.tools.dotc.core.Types$NamedType.denot(Types.scala:2191)
+	at dotty.tools.dotc.core.Types$NamedType.info(Types.scala:2179)
+	at dotty.tools.dotc.core.Types$Type.dealias1(Types.scala:1361)
+	at dotty.tools.dotc.core.Types$Type.dealias(Types.scala:1384)
+	at dotty.tools.dotc.core.Definitions.isTupleNType(Definitions.scala:1476)
+	at dotty.tools.dotc.printing.RefinedPrinter.toTextFunction$1$$anonfun$1(RefinedPrinter.scala:150)
+	at dotty.tools.dotc.printing.Printer.atPrec(Printer.scala:43)
+	at dotty.tools.dotc.printing.Printer.changePrec(Printer.scala:72)
+	at dotty.tools.dotc.printing.RefinedPrinter.toTextFunction$2(RefinedPrinter.scala:160)
+	at dotty.tools.dotc.printing.RefinedPrinter.appliedText$2(RefinedPrinter.scala:222)
+	at dotty.tools.dotc.printing.RefinedPrinter.toText$$anonfun$1(RefinedPrinter.scala:234)
+	at dotty.tools.dotc.printing.MessageLimiter.controlled(MessageLimiter.scala:23)
+	at dotty.tools.dotc.printing.PlainPrinter.controlled(PlainPrinter.scala:35)
+	at dotty.tools.dotc.printing.RefinedPrinter.toText(RefinedPrinter.scala:300)
+	at scala.meta.internal.pc.SymbolPrinter.typeString(SymbolPrinter.scala:25)
+	at scala.meta.internal.pc.SymbolPrinter.paramLabel(SymbolPrinter.scala:253)
+	at scala.meta.internal.pc.SymbolPrinter.$anonfun$7(SymbolPrinter.scala:144)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.SymbolPrinter.label$2$$anonfun$1(SymbolPrinter.scala:144)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.SymbolPrinter.label$1(SymbolPrinter.scala:148)
+	at scala.meta.internal.pc.SymbolPrinter.defaultMethodSignature(SymbolPrinter.scala:151)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:64)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+нояб. 20, 2021 12:25:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 349
+[0m2021.11.20 12:25:57 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab3/src/main/scala/RecursiveFunc.scala[0m
+[0m2021.11.20 12:27:02 INFO  shutting down Metals[0m
+[0m2021.12.02 21:57:48 INFO  Started: Metals version 0.10.9 in workspace '/Users/artem/Projects/Functional Programming/Lab4' for client Visual Studio Code 1.62.2.[0m
+[0m2021.12.02 21:57:53 INFO  time: initialize in 4.78s[0m
+[0m2021.12.02 21:57:54 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.02 21:57:54 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Maps.scala[0m
+[0m2021.12.02 21:58:01 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.02 21:58:04 INFO  time: code lens generation in 10s[0m
+дек. 02, 2021 9:58:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+[0m2021.12.02 21:58:32 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Sequence.scala[0m
+[0m2021.12.02 21:58:50 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab4/src/main/scala/Strings.scala[0m
+[0m2021.12.09 10:30:45 INFO  Started: Metals version 0.10.9 in workspace '/Users/artem/Projects/Functional Programming/Lab5' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.09 10:30:50 INFO  time: initialize in 4.42s[0m
+[0m2021.12.09 10:30:54 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.09 10:30:54 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab5/src/main/scala/Typeclasses.scala[0m
+[0m2021.12.09 10:31:02 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.09 10:31:07 INFO  time: code lens generation in 11s[0m
+[0m2021.12.09 10:33:12 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab5/src/main/scala/Typeclasses.scala[0m
+дек. 09, 2021 11:42:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 170
+[0m2021.12.09 11:53:13 INFO  shutting down Metals[0m

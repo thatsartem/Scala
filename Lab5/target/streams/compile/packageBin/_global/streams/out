@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/artem/Projects/Functional Programming/Lab5/target/scala-3.0.1/lab5_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab_ex4[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab5/target/scala-3.0.1/classes/Lab_ex4[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab_ex4/Typeclasses$Smash$SmashString$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab5/target/scala-3.0.1/classes/Lab_ex4/Typeclasses$Smash$SmashString$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab_ex4/Typeclasses$Reversable$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab5/target/scala-3.0.1/classes/Lab_ex4/Typeclasses$Reversable$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab_ex4/Typeclasses$Reversable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab5/target/scala-3.0.1/classes/Lab_ex4/Typeclasses$Reversable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab_ex4/Typeclasses$Smash$SmashInt$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab5/target/scala-3.0.1/classes/Lab_ex4/Typeclasses$Smash$SmashInt$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab_ex4/Typeclasses$Smash$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab5/target/scala-3.0.1/classes/Lab_ex4/Typeclasses$Smash$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab_ex4/Typeclasses$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab5/target/scala-3.0.1/classes/Lab_ex4/Typeclasses$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab_ex4/Typeclasses$Reversable$ReversableString$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab5/target/scala-3.0.1/classes/Lab_ex4/Typeclasses$Reversable$ReversableString$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab_ex4/Typeclasses$Smash$SmashDouble$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab5/target/scala-3.0.1/classes/Lab_ex4/Typeclasses$Smash$SmashDouble$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab_ex4/Typeclasses.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab5/target/scala-3.0.1/classes/Lab_ex4/Typeclasses.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab_ex4/Typeclasses.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab5/target/scala-3.0.1/classes/Lab_ex4/Typeclasses.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab_ex4/Typeclasses$Smash.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/artem/Projects/Functional Programming/Lab5/target/scala-3.0.1/classes/Lab_ex4/Typeclasses$Smash.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

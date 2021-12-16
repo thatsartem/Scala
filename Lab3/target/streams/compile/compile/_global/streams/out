@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E007] Type Mismatch Error: /Users/artem/Projects/Functional Programming/Lab3/src/main/scala/Compositions.scala:76:20 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m76 |[0m    println(f3(f5(f4([31m'8'[0m))))[0m
+[0m[[0m[31merror[0m] [0m[0m   |                  [31m^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                  Found:    Option[Int][0m
+[0m[[0m[31merror[0m] [0m[0m   |                  Required: Int[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

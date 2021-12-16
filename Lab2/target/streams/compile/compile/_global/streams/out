@@ -1,0 +1,17 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E007] Type Mismatch Error: /Users/artem/Projects/Functional Programming/Lab2/src/main/scala/Classes.scala:75:26 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m75 |[0m  [33mval[0m [36mtom[0m = Mammal([31m"cat"[0m, Meat)[0m
+[0m[[0m[31merror[0m] [0m[0m   |                          [31m^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                          Found:    exercise1.[1m[31mMeat[0m[1m[31m.[0m[1m[31mtype[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                          Required: exercise1.[1m[32mFood[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E007] Type Mismatch Error: /Users/artem/Projects/Functional Programming/Lab2/src/main/scala/Classes.scala:76:29 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m76 |[0m  [33mval[0m [36mkesha[0m = Bird([31m"parrot"[0m, Vegetables)[0m
+[0m[[0m[31merror[0m] [0m[0m   |                             [31m^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                             Found:    exercise1.[1m[31mVegetables[0m[1m[31m.[0m[1m[31mtype[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                             Required: exercise1.[1m[32mFood[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E007] Type Mismatch Error: /Users/artem/Projects/Functional Programming/Lab2/src/main/scala/Classes.scala:77:30 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m77 |[0m  [33mval[0m [36mnemo[0m = Fish([31m"goldfish"[0m, Plants)[0m
+[0m[[0m[31merror[0m] [0m[0m   |                              [31m^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                              Found:    exercise1.[1m[31mPlants[0m[1m[31m.[0m[1m[31mtype[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                              Required: exercise1.[1m[32mFood[0m[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

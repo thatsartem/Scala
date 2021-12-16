@@ -1,0 +1,34 @@
+[0m2021.12.08 16:30:34 INFO  Started: Metals version 0.10.9 in workspace '/Users/artem/Projects/Functional Programming/Lab2' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.08 16:30:39 INFO  time: initialize in 4.46s[0m
+[0m2021.12.08 16:30:39 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.08 16:30:40 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab2/src/main/scala/Main.scala[0m
+[0m2021.12.08 16:30:48 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.08 16:30:51 INFO  time: code lens generation in 9.74s[0m
+[0m2021.12.08 16:31:10 INFO  shutting down Metals[0m
+[0m2021.12.08 16:33:45 INFO  Started: Metals version 0.10.9 in workspace '/Users/artem/Projects/Functional Programming/Lab2' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.08 16:33:50 INFO  time: initialize in 4.46s[0m
+[0m2021.12.08 16:33:50 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.08 16:33:51 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab2/src/main/scala/Main.scala[0m
+[0m2021.12.08 16:33:51 INFO  skipping build import with status 'Requested'[0m
+[0m2021.12.08 16:33:58 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.08 16:34:03 INFO  time: code lens generation in 10s[0m
+[0m2021.12.08 16:34:03 INFO  time: code lens generation in 10s[0m
+[0m2021.12.08 16:37:02 INFO  shutting down Metals[0m
+[0m2021.12.11 13:50:25 INFO  Started: Metals version 0.10.9 in workspace '/Users/artem/Projects/Functional Programming/Lab2' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.11 13:50:29 INFO  time: initialize in 4.62s[0m
+[0m2021.12.11 13:50:30 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.11 13:50:30 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab2/src/main/scala/Patterns.scala[0m
+[0m2021.12.11 13:50:30 INFO  skipping build import with status 'Requested'[0m
+[0m2021.12.11 13:50:38 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.11 13:50:40 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab2/src/main/scala/Main.scala[0m
+дек. 11, 2021 1:50:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+дек. 11, 2021 1:50:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+[0m2021.12.11 13:50:40 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab2/src/main/scala/HiOrder.scala[0m
+[0m2021.12.11 13:50:43 INFO  time: code lens generation in 2.89s[0m
+[0m2021.12.11 13:50:43 INFO  time: code lens generation in 3.13s[0m
+[0m2021.12.11 13:50:43 INFO  time: code lens generation in 10s[0m
+[0m2021.12.11 13:50:45 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab2/src/main/scala/Functions.scala[0m
+[0m2021.12.11 13:51:03 WARN  no build target for: /Users/artem/Projects/Functional Programming/Lab2/src/main/scala/Classes.scala[0m
+[0m2021.12.11 13:55:39 INFO  shutting down Metals[0m
